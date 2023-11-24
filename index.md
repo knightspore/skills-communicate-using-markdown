@@ -19,3 +19,8 @@ function add(a: string, b: string): string {
   return a+b;
 }
 ```
+## A to-do list
+- [x] Get into the AllInAfrica program
+- [ ] Finish the course
+- [ ] Share my learnings with the community
+- [ ] Contribute to more open-source projects
